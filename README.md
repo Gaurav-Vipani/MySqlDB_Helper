@@ -38,3 +38,4 @@
 
 -------------------------------
 * DEVELOPED BY - GAURAV VIPANI
+* DOWNLOAD FROM GITHUB - https://github.com/Gaurav-Vipani/MySqlDB_Helper.git
